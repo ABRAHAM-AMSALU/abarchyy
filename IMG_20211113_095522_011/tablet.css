@@ -1,0 +1,15 @@
+/*Navbar*/
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+
+
+/*About*/
+#intro h2{
+    text-align: center;
+    padding: 10px;
+
+}
